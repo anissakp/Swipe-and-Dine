@@ -20,7 +20,7 @@ Follow these steps to set up the project locally:
 1. **Clone the Repository**
 ```bash
 git clone https://github.com/anissakp/swipe-and-dine.git
-cd swipe-and-dine
+cd Swipe-and-Dine
 ```
 
 3. **Install Server Dependencies**
